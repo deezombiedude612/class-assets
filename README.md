@@ -4,7 +4,7 @@ Assets for my classes in Taylor's College.
 
 ## ITS30605 Web Programming
 
-- [lab03_resources.zip](wp-lab03-props/lab03_resources.zip)
+- [Lab 03 Activity Resources](wp-lab03-props/lab03_resources.zip)
 
 ## ITS42004 Object-Oriented Programming
 
